@@ -1,0 +1,28 @@
+# Commands
+
+### General, User and Privilages
+
+man - (for the manual)
+ls - (for listing the files)
+cat - (for seeing all the contents of the file in the terminal)
+echo - (for writing something in a file or printing something in the terminal)
+updatedb - (for updating the database)
+locate - (for quickly finding a file)
+chmod - (for changing the mode of a file [permissions])
+adduser - (for adding a new user)
+su <user> - (for changing the user)
+"su -" - (for putting back to the root)
+
+### Network
+ifconfig - (for printing the ethernet or other plugins details)
+iwconfig - (for printing the wirless plugin details)
+arp - (for assosiating ip addr with mac addr)
+netstat - (for print all the ports)
+route - (for printing routing table)
+
+### File Management
+rm - (for removing files)
+mv - (for moving or renaming files)
+cp - (for copying file)
+mkdir - (for creating a directory)
+rmdir - (for removing empty directory)
