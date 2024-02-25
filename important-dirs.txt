@@ -1,0 +1,5 @@
+/etc/passwd - (contains users)
+/etc/shadow - (contains hashes) 
+/var/log - (contains all the log files; example: syslog, auth.log)
+
+
